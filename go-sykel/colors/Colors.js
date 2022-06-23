@@ -1,0 +1,21 @@
+export const Colors = {
+    primary: '#00bcd4',
+    secondary: '#ff9800', 
+    accent: '#ff5722', 
+    error: '#f44336', 
+    warning: '#ffeb3b',
+    info: '#5dd124',
+    success: '#4caf50',
+    grey: '#cfcfcf', 
+    lightBlue: '#a7dcfc',
+    lightGrey: '#ededed',
+    greenIntense: '#63ed1f',
+    greenLight: '#d1ffba', 
+    gold: '#efb810',
+    rankingGold: '#ffc600',
+    silver: '#e3e4e5',
+    bronze: '#cd7f32',
+    intenseGrey: '#5a5d72', 
+    customBlack: '#192043',
+    cyanLight: '#bff1ff'
+};
